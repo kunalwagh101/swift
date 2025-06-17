@@ -22,9 +22,6 @@ pip-wheel-metadata/
 # Notebook outputs (optional—if you don’t want to track .ipynb files)
 # *.ipynb
 
-# Data and output files
-data/
-outputs/
 
 # IDE settings
 .vscode/
